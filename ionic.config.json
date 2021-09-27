@@ -1,0 +1,7 @@
+{
+  "name": "prodcomp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
